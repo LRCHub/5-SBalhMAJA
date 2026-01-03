@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "NAME",
+  "base_artist": "綴",
+  "createdAt": "2026-01-03T06:49:33.413942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Horse With No Name",
+      "artist": "America",
+      "has_synced": true,
+      "path": "select/01_Horse_With_No_Name_America.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cold Beer Calling My Name (Live)",
+      "artist": "Jameson Rodgers",
+      "has_synced": false,
+      "path": "select/02_Cold_Beer_Calling_My_Name_(Live)_Jameson_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Got Your Name On It",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/03_Got_Your_Name_On_It_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pride (In The Name Of Love)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/04_Pride_(In_The_Name_Of_Love)_U2.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take My Name",
+      "artist": "Parmalee",
+      "has_synced": true,
+      "path": "select/05_Take_My_Name_Parmalee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "God Whispered Your Name",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/06_God_Whispered_Your_Name_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "God Whispered Your Name",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/07_God_Whispered_Your_Name_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Got My Name Changed Back",
+      "artist": "Pistol Annies",
+      "has_synced": true,
+      "path": "select/08_Got_My_Name_Changed_Back_Pistol_Annies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Her Name Is...",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/09_Her_Name_Is..._George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Her Name Is... (Album Version)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/10_Her_Name_Is..._(Album_Version)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Her Name Was Summer",
+      "artist": "Ryan Hurd",
+      "has_synced": true,
+      "path": "select/11_Her_Name_Was_Summer_Ryan_Hurd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Don't Even Know Your Name",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/12_I_Don't_Even_Know_Your_Name_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Don't Even Know Your Name",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/13_I_Don't_Even_Know_Your_Name_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Name the Dogs",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/14_I'll_Name_the_Dogs_Blake_Shelton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NAME",
+      "artist": "綴",
+      "has_synced": false,
+      "path": "select/pl_01_NAME_綴.txt"
+    }
+  ]
+}
